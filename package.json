@@ -1,0 +1,31 @@
+{
+  "name": "test_qa",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas QA con E2E y API en Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenxime/Ejercicios_QA_Cypress.git"
+  },
+  "keywords": [
+    "E2E",
+    "API",
+    "Cypress",
+    "Automatización",
+    "QA",
+    "Test"
+  ],
+  "author": "Jeniffer Guaman Ilvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenxime/Ejercicios_QA_Cypress/issues"
+  },
+  "homepage": "https://github.com/jenxime/Ejercicios_QA_Cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
